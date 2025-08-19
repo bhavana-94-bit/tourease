@@ -1,5 +1,13 @@
 # tourease
-TEAM MEMBERS: 1.Sreeja 2410030454 2.Sahithi Reddy 2410030277 3.Pranathi 2410030276 4.Bhavana 2410030080 5.Akhila 2410030452 OVERVIEW:
+TEAM MEMBERS: 
+1.Sreeja 2410030454 
+2.Sahithi Reddy 2410030277 
+3.Pranathi 2410030276 
+4.Bhavana 2410030080 
+5.Akhila 2410030452 
+6.Varshitha 2410030527
+
+OVERVIEW:
 
 TourEase is a smart travel planning and booking platform designed to simplify the way people plan their trips. It provides an all-in-one solution for travelers to discover destinations, create personalized itineraries, book hotels, transportation, and explore local attractions with ease. The platform focuses on user-friendly design, AI-driven recommendations, and seamless booking integration, making travel hassle-free and enjoyable.
 
